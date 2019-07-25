@@ -39,4 +39,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 3. Run all the cells. When loading the Unity environment, select the unzipped folder from previous section
 
 ## Results
-![Results](Figures/Tennis.png)
+![Results](https://github.com/thenickben/drlnd-p3-collab-compet/blob/master/Figures/Tenis.png)
