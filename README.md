@@ -33,6 +33,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Unzip (or decompress) the archive
 
+3. Make sure of installing all requirements (find them on requirements.txt)
+
 ### How to train
 1. Start the jupyter server
 2. Open the ipynb notebook
