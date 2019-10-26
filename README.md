@@ -1,5 +1,4 @@
-# Tennis
-Collaboration and Competition Deep Reinforcement Learning project.
+# Collaboration and Competition Deep Reinforcement Learning project.
 
 ## Description
 ![Environment](Figures/env.png)
