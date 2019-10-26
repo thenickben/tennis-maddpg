@@ -1,5 +1,5 @@
 # Tennis
-Collaboration and Competition project from Udacity Deep Reinforcement Learning Nanodegree.
+Collaboration and Competition Deep Reinforcement Learning project.
 
 ## Description
 ![Environment](Figures/env.png)
