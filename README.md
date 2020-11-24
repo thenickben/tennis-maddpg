@@ -14,10 +14,7 @@ This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 ## Installation
-### Install deep reinforcement learning repository
-1. Clone [deep reinforcement learning repository](https://github.com/udacity/deep-reinforcement-learning)
-2. Follow the instructions to install necessary [dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies)
-### Download the Unity Environment
+
 1. Download environment for your system into this repository root
 
 * Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
